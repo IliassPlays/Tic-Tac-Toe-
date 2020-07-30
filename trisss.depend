@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582902810 source:c:\users\ilisas\desktop\progetti info terza\gioco del tris\trisss\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+
